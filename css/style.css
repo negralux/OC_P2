@@ -1,4 +1,4 @@
-/* CV_style.css OSC/parcours 2 */
+/* style.css - OSC/parcours 2 */
 
 @font-face 
 {
@@ -13,25 +13,32 @@
 
 }
 
-h1, h2, h3
+h1, h2, h3, h4, h5, h6
 {
     font-family: 'droid_sansregular', 'Arial', sans-serif;
 }
 
+/* container bootstr@p 4.0 */
 .container
 {
-max-width: 960px;
+max-width: 990px;
 margin:auto;
+} 
+
+/* 4col gauche - 8 col droite */
+.col-lg-4,.col-lg-8
+{
+padding: 0px;
 }
 
+/* 8 col droite*/
 #avatar
 {
     vertical-align: middle;
-    margin-left:30px;
-    padding-top:20px;
+    margin-left:70px;
+    padding-top:24px;
     padding-bottom: 20px;
     color: #181818;
-   
 }
 
 .bandeau-noir
@@ -59,46 +66,38 @@ margin:auto;
     margin:20px;
     text-align: justify;
     color: #181818;
-    padding-bottom: 140px;
+    padding-bottom: 80px;
 }
 
 #icon-loisirs
 {
-    padding-top: 10px;
-    
-    color:#feca07
-    height:100px;
+    padding-left: 40px;
+    color:#feca07;
+    height:80px;
 }
 
-.fas
+.far,.fas
 {
-    margin:20px;
-    color:#feca07;
+color: #feca07;
+padding: 18px 18px 0px 0px;
 }
 
 .fa-camera,.fa-video,.fa-theater-masks
 {
 color: #404040;
+padding:12px;
 }
 
+/* 8 col droite*/
 #PRENOM
 {
 color: #feca07;
-padding-right: 10px;
+padding-left: 40px;
 }
 
 #NOM
-{  
-color: #404040;
-}
-
-#DEVEL
-{
-border-bottom: 4px solid #feca07;
-}
-
-#OPPEUR
-{
+{ 
+padding-left: 10px; 
 color: #404040;
 }
 
@@ -107,8 +106,22 @@ color: #404040;
 padding-top: 20px;
 }
 
-.ligneJaune
+.row
 {
-margin-bottom:40px;
+padding-left: 0px;
+}
+/*souligne en jaune*/
+.lignejaune
+{
+margin-left:40px;
+margin-bottom:20px;
 border-bottom: 4px solid #feca07;
 }
+/* bloc recommandations*/
+.col-lg-6
+{
+padding-left: 60px;
+}
+
+
+

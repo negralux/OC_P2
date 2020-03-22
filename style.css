@@ -34,46 +34,45 @@ padding: 0px;
 /* 8 col droite*/
 #avatar
 {
-    vertical-align: middle;
-    margin-left: 46px;
-    padding-top: 24px;
-    padding-bottom: 20px;
-    color: #181818;
+vertical-align: middle;
+margin-left: 46px;
+padding-top: 24px;
+padding-bottom: 20px;
+color: #181818;
 }
 
 .bandeau-noir
 {
-    vertical-align: middle;
-    text-align: center;
-    padding-top: 12px;
-    background-color: #404040;
-    color:#feca07;
-    height: 60px;
+vertical-align: middle;
+text-align: center;
+padding-top: 12px;
+background-color: #404040;
+color:#feca07;
+height: 60px;
 }
 
 #adresse
 {
-    vertical-align: middle;
-    margin: 10px;
-    padding: 15px;
-    font-size: 1.5em;
-    color: #181818;
+vertical-align: middle;
+margin: 10px;
+padding: 15px;
+font-size: 1.5em;
+color: #181818;
 }
 
 #apropostxt
 {
-    vertical-align: middle;
-    margin:20px;
-    text-align: justify;
-    color: #181818;
-    padding-bottom: 0px;
+vertical-align: middle;
+margin:20px;
+text-align: justify;
+color: #181818;
 }
 
 #icon-loisirs
 {
-    padding-left: 40px;
-    color:#feca07;
-    height:80px;
+padding-left: 40px;
+color:#feca07;
+height:80px;
 }
 
 .far,.fas
@@ -110,6 +109,7 @@ padding-top: 20px;
 {
 padding-left: 0px;
 }
+
 /*souligne en jaune*/
 .lignejaune
 {
@@ -117,6 +117,7 @@ margin-left: 30px;
 margin-bottom: 20px;
 border-bottom: 4px solid #feca07;
 }
+
 /* bloc recommandations*/
 .col-lg-6
 {

@@ -18,110 +18,34 @@ h1, h2, h3, h4, h5, h6
     font-family: 'droid_sansregular', 'Arial', sans-serif;
 }
 
-/* container bootstr@p 4.0 */
-.container
-{
-max-width: 990px;
-margin:auto;
-} 
-
-/* 4col gauche - 8 col droite */
-.col-lg-4,.col-lg-8
-{
-padding: 0px;
-}
-
-/* 8 col droite*/
-#avatar
-{
-    vertical-align: middle;
-    margin-left:70px;
-    padding-top:24px;
-    padding-bottom: 20px;
-    color: #181818;
-}
 
 .bandeau-noir
 {
-    vertical-align: middle;
-    text-align: center;
-    padding-top: 12px;
     background-color: #404040;
     color:#feca07;
-    height:60px;
 }
 
-#adresse
+.mycolor
 {
-    vertical-align: middle;
-    margin: 20px;
-    padding: 15px;
-    font-size: 1.5em;
-    color: #181818;
+    color: #181818 !important;
 }
 
-#apropostxt
-{
-    vertical-align: middle;
-    margin:20px;
-    text-align: justify;
-    color: #181818;
-    padding-bottom: 80px;
-}
-
-#icon-loisirs
-{
-    padding-left: 40px;
-    color:#feca07;
-    height:80px;
-}
-
-.far,.fas
+.far,.fas,.prenom
 {
 color: #feca07;
-padding: 18px 18px 0px 0px;
 }
 
-.fa-camera,.fa-video,.fa-theater-masks
+.fa-camera,.fa-video,.fa-theater-masks, .nom
 {
-color: #404040;
-padding:12px;
-}
-
-/* 8 col droite*/
-#PRENOM
-{
-color: #feca07;
-padding-left: 40px;
-}
-
-#NOM
-{ 
-padding-left: 10px; 
 color: #404040;
 }
 
-.TITRE
-{
-padding-top: 20px;
-}
-
-.row
-{
-padding-left: 0px;
-}
-/*souligne en jaune*/
 .lignejaune
 {
-margin-left:40px;
 margin-bottom:20px;
 border-bottom: 4px solid #feca07;
 }
-/* bloc recommandations*/
-.col-lg-6
-{
-padding-left: 60px;
-}
+
 
 
 

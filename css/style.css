@@ -13,10 +13,9 @@
 
 }
 
-
-img
+h1, h2, h3, h4, h5, h6
 {
-    margin:auto;
+    font-family: 'droid_sansregular', 'Arial', sans-serif;
 }
 
 .col-lg-4,.col-lg-8

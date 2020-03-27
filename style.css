@@ -1,4 +1,4 @@
-/* style.css - OSC/parcours 2 */
+/* style.css - OSC/parcours 2 26/3/20 */
 
 @font-face 
 {
@@ -26,11 +26,12 @@ h1, h2, h3, h4, h5, h6
 
 #avatar
 {
-    vertical-align: middle;
-    margin-left:50px;
-    padding-top:20px;
-    padding-bottom: 20px;
-    color: #181818;
+    width:236px;
+    height:240px;
+    margin: auto;
+    border-radius: 50%;
+    border: 2.5px solid #fff;
+    overflow: hidden;
 }
 
 .bandeau-noir
@@ -63,7 +64,7 @@ h1, h2, h3, h4, h5, h6
 .far,.fas,.PRENOM
 {
     color: #feca07;
-    padding-right:20px;
+    margin:0px 20px 0px 20px;
 }
 
 .PRENOM

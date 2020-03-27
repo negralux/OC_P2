@@ -29,9 +29,7 @@ h1, h2, h3, h4, h5, h6
     width:236px;
     height:240px;
     margin: auto;
-    border-radius: 50%;
-    border: 2.5px solid #fff;
-    overflow: hidden;
+    padding-top:30px;
 }
 
 .bandeau-noir

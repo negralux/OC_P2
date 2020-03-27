@@ -1,4 +1,4 @@
-/* style.css - OSC/parcours 2 26/3/20 */
+/* style.css - OSC/parcours 2 27/3/20 */
 
 @font-face 
 {
@@ -76,7 +76,7 @@ h1, h2, h3, h4, h5, h6
 .lignejaune
 {
     margin-bottom:20px;
-    margin: 40px;
+    margin: 10px;
     border-bottom: 4px solid #feca07;
 }
 

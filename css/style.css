@@ -44,7 +44,8 @@ h1, h2, h3, h4, h5, h6
 
 .bloc-infos
 {
- margin:20px;  
+    margin:20px;  
+    text-align: justify;
 }
 
 .mycolor
@@ -52,12 +53,6 @@ h1, h2, h3, h4, h5, h6
     color: #181818 !important;
 }
 
-.bloc-gauche
-{
-    margin:20px;
-    vertical-align: middle;
-    text-align: justify;
-}
 .far,.fas,.PRENOM
 {
     color: #feca07;

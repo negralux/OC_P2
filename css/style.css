@@ -53,7 +53,7 @@ h1, h2, h3, h4, h5, h6
     color: #181818 !important;
 }
 
-.far,.fas,
+.far,.fas, span
 {
     color: #feca07;
     margin:0px 20px 0px 20px;
@@ -65,18 +65,12 @@ h1, h2, h3, h4, h5, h6
     color: #feca07;
 }
 
-/*h2 > span {
-    text-decoration: underline;
-    text-decoration-color: #feca07;
-    text-underline-position: under;
-}
-*/
 
 .fa-camera,.fa-video,.fa-theater-masks, .nom
 {
     color: #404040;
     text-align: center;
-    padding:24px;
+    padding:30px;
 }
 
 .lignejaune

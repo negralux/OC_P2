@@ -26,11 +26,18 @@ h1, h2, h3, h4, h5, h6
 
 #avatar
 {
-    vertical-align: middle;
-    margin-left:50px;
-    padding-top:20px;
-    padding-bottom: 20px;
-    color: #181818;
+    width:240px;
+    height:236px;
+    border-radius: 50%;
+    border: 2.5px solid #feca07;
+    overflow: hidden;
+    margin: auto;
+}
+
+#sizephoto
+{   
+    width:240px;
+    height:236px;
 }
 
 .bandeau-noir

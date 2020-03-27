@@ -44,22 +44,16 @@ h1, h2, h3, h4, h5, h6
     height:60px;
 }
 
-.adresse
-{
-    vertical-align: middle;
-    margin:20px;
-}
 .mycolor
 {
     color: #181818 !important;
 }
 
-#apropostxt
+.bloc-gauche
 {
     margin:20px;
     vertical-align: middle;
     text-align: justify;
-    padding-bottom: 240px;
 }
 .far,.fas,.PRENOM
 {

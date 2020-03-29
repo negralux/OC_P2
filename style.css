@@ -61,6 +61,14 @@ h1, h2, h3, h4, h5, h6
     text-align: justify;
     padding-bottom: 260px;
 }
+
+.fa-camera,.fa-video,.fa-theater-masks, .NOM
+{
+    color: #404040;
+    text-align: center;
+    padding:24px;
+}
+
 .far,.fas,.PRENOM
 {
     color: #feca07;
@@ -70,13 +78,6 @@ h1, h2, h3, h4, h5, h6
 .PRENOM
 {
     padding-left: 40px;
-}
-
-.fa-camera,.fa-video,.fa-theater-masks, .NOM
-{
-    color: #404040;
-    text-align: center;
-    padding:24px;
 }
 
 .lignejaune

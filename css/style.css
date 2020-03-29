@@ -51,9 +51,15 @@ h1, h2, h3, h4, h5, h6
 .mycolor
 {
     color: #181818 !important;
+
 }
 
-.far,.fas, span
+icon-loisirs
+{
+padding:30px;    
+}
+
+.far,.fas,
 {
     color: #feca07;
     margin:0px 20px 0px 20px;

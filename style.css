@@ -26,12 +26,10 @@ h1, h2, h3, h4, h5, h6
 
 #avatar
 {
-    width:236px;
-    height:240px;
+     width:236px;
+    height:280px;
     margin: auto;
-    border-radius: 50%;
-    border: 2.5px solid #fff;
-    overflow: hidden;
+    padding-top:20px;
 }
 
 .bandeau-noir
@@ -44,31 +42,17 @@ h1, h2, h3, h4, h5, h6
     height:60px;
 }
 
-#adresse
-{
-    vertical-align: middle;
-    margin:20px;
-}
 .mycolor
 {
     color: #181818 !important;
 }
 
-#apropostxt
+.bloc-text-g
 {
     margin:20px;
     vertical-align: middle;
     text-align: justify;
-    padding-bottom: 260px;
 }
-
-.fa-camera,.fa-video,.fa-theater-masks, .NOM
-{
-    color: #404040;
-    text-align: center;
-    padding:24px;
-}
-
 .far,.fas,.PRENOM
 {
     color: #feca07;
@@ -77,16 +61,30 @@ h1, h2, h3, h4, h5, h6
 
 .PRENOM
 {
-    padding-left: 40px;
+    padding-left: 16px;
+}
+
+.fa-camera,.fa-video,.fa-theater-masks, .nom
+{
+    color: #404040;
+    text-align: center;
+    padding:12px;
 }
 
 .lignejaune
 {
     margin-bottom:20px;
-    margin: 40px;
-    border-bottom: 4px solid #feca07;
+    margin: 20px;
+    border-bottom: 3px solid #feca07;
 }
 
+h2 > span 
+{
+    padding-left:38px;
+    text-decoration: underline;
+    text-decoration-color: #feca07;
+    text-underline-position: under;
+}
 .col-lg-6
 {
     padding-left: 60px;

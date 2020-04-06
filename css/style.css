@@ -1,4 +1,4 @@
-/* style.css - OSC/parcours 2 30/03/2020 15:00 */
+/* style.css - OSC/parcours 2 */
 
 @font-face 
 {
@@ -18,28 +18,11 @@ h1, h2, h3, h4, h5, h6
     font-family: 'droid_sansregular', 'Arial', sans-serif;
 }
 
-.col-lg-4,.col-lg-8
-{
-    padding: 0px;
-
-}
-
-#avatar
-{
-     width:236px;
-    height:280px;
-    margin: auto;
-    padding-top:20px;
-}
 
 .bandeau-noir
 {
     background-color: #404040;
     color:#feca07;
-    vertical-align: middle;
-    text-align: center;
-    padding-top: 12px;
-    height:60px;
 }
 
 .mycolor
@@ -47,48 +30,22 @@ h1, h2, h3, h4, h5, h6
     color: #181818 !important;
 }
 
-.bloc-text-g
+.far,.fas,.prenom
 {
-    margin:20px;
-    vertical-align: middle;
-    text-align: justify;
-}
-.far,.fas,.PRENOM
-{
-    color: #feca07;
-    margin:0px 20px 0px 20px;
-}
-
-.PRENOM
-{
-    padding-left: 16px;
+color: #feca07;
 }
 
 .fa-camera,.fa-video,.fa-theater-masks, .nom
 {
-    color: #404040;
-    text-align: center;
-    padding:12px;
+color: #404040;
 }
 
 .lignejaune
 {
-    margin-bottom:20px;
-    margin: 20px;
-    border-bottom: 3px solid #feca07;
+margin-bottom:20px;
+border-bottom: 4px solid #feca07;
 }
 
-h2 > span 
-{
-    padding-left:38px;
-    text-decoration: underline;
-    text-decoration-color: #feca07;
-    text-underline-position: under;
-}
-.col-lg-6
-{
-    padding-left: 60px;
-}
 
 
 

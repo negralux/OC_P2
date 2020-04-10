@@ -18,6 +18,12 @@ h1, h2, h3, h4, h5, h6
     font-family: 'droid_sansregular', 'Arial', sans-serif;
 }
 
+h2 span
+{
+display: inline-block;
+border-bottom: 3px solid #feca07;
+}
+
 .photo 
 {
         width: 210px;
@@ -49,7 +55,7 @@ color: #404040;
 .lignejaune
 {
 margin-bottom:20px;
-border-bottom: 2px solid #feca07;
+border-bottom: 3px solid #feca07;
 }
 
 
